@@ -1,1 +1,2 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KyubumShin&show_icons=true&theme=tokyonight)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KyubumShin&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyubumShin&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
