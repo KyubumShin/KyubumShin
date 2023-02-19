@@ -13,3 +13,5 @@
 | - | - | - | - | - |
 | Naver Clova | Clova Airush 2022 | Scoring Naver Place Review images | Ordinal Classification | 1st |
 
+## Carrers
+- ML Engineer(intern) in Naver Glace CIC (2022.11 ~ 2023.2)
