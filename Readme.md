@@ -1,2 +1,11 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KyubumShin&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyubumShin&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📖 ML Engineer
+
+
+## Competitions
+| Host | Competition Name | detail | Related | Rank |
+| - | - | - | - | - |
+| Naver Clova | Clova Airush 2022 | Scoring Naver Place Review images | Ordinal Classification | 1st |
+
+## Educations
+- Naver BoostCamp AI 3rd, Computer vision Track
+- B.S Computer Science in Hokkaido University, Hokkaido, Japan (2014.4 ~ 2021.3)
