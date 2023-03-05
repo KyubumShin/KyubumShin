@@ -15,6 +15,7 @@
 | Host | Competition Name | detail | Related | Rank |
 | - | - | - | - | - |
 | Naver Clova | Clova Airush 2022 | Scoring Naver Place Review images | Ordinal Classification | 1st |
+| Naver Clova | Clova Airush 2022 | Age Classfication | Image Classification | 1st |
 
 ## 📘 Laest Blog Posts
 <!-- BLOG-POST-LIST:START -->
