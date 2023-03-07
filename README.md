@@ -20,5 +20,4 @@
 ## 📘 Laest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Paper-Review]Multi-Label Learning from Single Positive Labels](https://qphone.tistory.com/3)
-- [처음부터 해보는 SQL&lpar;1&rpar;](https://qphone.tistory.com/2)
 <!-- BLOG-POST-LIST:END -->
