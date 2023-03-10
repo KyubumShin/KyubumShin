@@ -19,5 +19,6 @@
 
 ## 📘 Laest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas vs. Polars](https://qphone.tistory.com/4)
 - [[Paper-Review]Multi-Label Learning from Single Positive Labels](https://qphone.tistory.com/3)
 <!-- BLOG-POST-LIST:END -->
