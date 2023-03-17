@@ -19,6 +19,7 @@
 
 ## 📘 Laest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust 기초 - 변수](https://qphone.tistory.com/5)
 - [Pandas vs. Polars](https://qphone.tistory.com/4)
 - [[Paper-Review]Multi-Label Learning from Single Positive Labels](https://qphone.tistory.com/3)
 <!-- BLOG-POST-LIST:END -->
