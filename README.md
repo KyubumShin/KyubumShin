@@ -17,7 +17,7 @@
 | Naver Clova | Clova Airush 2022 | Scoring Naver Place Review images | Ordinal Classification | 1st |
 | Naver Clova | Clova Airush 2022 | Age Classfication | Image Classification | 1st |
 
-## 📘 Laest Blog Posts
+## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Rust 기초 - 데이터 타입](https://qphone.tistory.com/6)
 - [Rust 기초 - 변수](https://qphone.tistory.com/5)
