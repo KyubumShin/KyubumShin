@@ -14,7 +14,7 @@
 ## Competitions
 | Host | Competition Name | detail | Related | Rank |
 | - | - | - | - | - |
-| Kaggle | Novozymes Enzyme Stability Prediction | protein melting temperature predict| GNN | 1st |
+| Kaggle | Novozymes Enzyme Stability Prediction | protein melting temperature predict| GNN | 81st / top 4% |
 | Naver Clova | Clova Airush 2022 | Scoring Naver Place Review images | Ordinal Classification | 1st |
 | Naver Clova | Clova Airush 2022 | Age Classfication | Image Classification | 1st |
 
