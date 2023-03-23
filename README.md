@@ -20,9 +20,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust 기초 - 소유권&lpar;1&rpar;](https://qphone.tistory.com/8)
 - [Rust 기초 - 함수](https://qphone.tistory.com/7)
 - [Rust 기초 - 데이터 타입](https://qphone.tistory.com/6)
 - [Rust 기초 - 변수](https://qphone.tistory.com/5)
 - [Pandas vs. Polars](https://qphone.tistory.com/4)
-- [[Paper-Review]Multi-Label Learning from Single Positive Labels](https://qphone.tistory.com/3)
 <!-- BLOG-POST-LIST:END -->
