@@ -8,7 +8,8 @@
 - ML Engineer(intern) in Naver Glace CIC (2022.11 ~ 2023.2)
 
 ## Educations
-- Naver BoostCamp AI 3rd, Computer vision Track
+- Naver BoostCamp AI 3rd, Computer vision Track (2022.01 ~ 2022.06)
+- Programmers KDT Ai Bootcourse (2021.04 ~ 2021.09)
 - B.S Computer Science in Hokkaido University, Hokkaido, Japan (2014.4 ~ 2021.3)
 
 ## Competitions
