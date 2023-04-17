@@ -21,9 +21,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [구조체 &lpar;Struct&rpar;](https://qphone.tistory.com/11)
 - [Asymmetric Loss For Multi-Label Classification](https://qphone.tistory.com/10)
 - [Rust 기초 - 소유권&lpar;2&rpar;](https://qphone.tistory.com/9)
 - [Rust 기초 - 소유권&lpar;1&rpar;](https://qphone.tistory.com/8)
 - [Rust 기초 - 함수](https://qphone.tistory.com/7)
-- [Rust 기초 - 데이터 타입](https://qphone.tistory.com/6)
 <!-- BLOG-POST-LIST:END -->
