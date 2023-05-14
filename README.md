@@ -21,9 +21,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust를 이용한 고성능 Python 회고](https://qphone.tistory.com/12)
 - [구조체 &lpar;Struct&rpar;](https://qphone.tistory.com/11)
 - [Asymmetric Loss For Multi-Label Classification](https://qphone.tistory.com/10)
 - [Rust 기초 - 소유권&lpar;2&rpar;](https://qphone.tistory.com/9)
 - [Rust 기초 - 소유권&lpar;1&rpar;](https://qphone.tistory.com/8)
-- [Rust 기초 - 함수](https://qphone.tistory.com/7)
 <!-- BLOG-POST-LIST:END -->
