@@ -21,7 +21,7 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [대회 회고](https://qphone.tistory.com/13)
+- [Benetech 대회 회고](https://qphone.tistory.com/13)
 - [Rust를 이용한 고성능 Python 회고](https://qphone.tistory.com/12)
 - [구조체 &lpar;Struct&rpar;](https://qphone.tistory.com/11)
 - [Asymmetric Loss For Multi-Label Classification](https://qphone.tistory.com/10)
