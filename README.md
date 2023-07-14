@@ -5,6 +5,7 @@
 - Reinforced Learning : RL simulating with Unity ML Agent
 
 ## Carrers
+- AI Engineer in Naver (2022.07 ~ current)
 - ML Engineer(intern) in Naver Glace CIC (2022.11 ~ 2023.2)
 
 ## Educations
