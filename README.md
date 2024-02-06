@@ -1,11 +1,12 @@
-### 📖 ML Engineer
+### 📖 ML Engineer / MLOps Enginner
 
 ## Interest
 - Computer Vision : Clasficiation, Tracking, Object Detection, Multi Label Classification
 - Reinforced Learning : RL simulating with Unity ML Agent
+- Data pipeline optimization : python C Api, python rust Api, Spark(python, scala)
 
 ## Carrers
-- AI Engineer in Naver (2022.07 ~ current)
+- MLOps Engineer in Naver Forest CIC (2023.07 ~ 2023.02)
 - ML Engineer(intern) in Naver Glace CIC (2022.11 ~ 2023.2)
 
 ## Educations
